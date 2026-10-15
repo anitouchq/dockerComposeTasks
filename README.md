@@ -1,11 +1,11 @@
 ## Проекты Docker Compose
 
-- [WordPress](/dockerComposeTasks/wordPress.md)
-- [MySQL + phpMyAdmin](/dockerComposeTasks/MySQLphpMyAdmin.md)
-- [PostgresSQL](/dockerComposeTasks/PostgreSQL.md)
-- [PostgreSQL+pgAdmin](/dockerComposeTasks/PostgreSQLAdmin.md)
-- [LibreDB Studio](/dockerComposeTasks/libledb.md)
-- [Homehub](/dockerComposeTasks/homehub.md)
-- [CloudBeaver](/dockerComposeTasks/cloud.md)
+- [WordPress](/wordPress.md)
+- [MySQL + phpMyAdmin](/MySQLphpMyAdmin.md)
+- [PostgresSQL](/PostgreSQL.md)
+- [PostgreSQL+pgAdmin](/PostgreSQLAdmin.md)
+- [LibreDB Studio](/libledb.md)
+- [Homehub](/homehub.md)
+- [CloudBeaver](/cloud.md)
 
 ---
